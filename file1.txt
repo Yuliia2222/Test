@@ -8,3 +8,4 @@ commit test
 text
 
 new branch line
+new line for GUI
